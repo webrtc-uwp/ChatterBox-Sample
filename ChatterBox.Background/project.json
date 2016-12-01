@@ -5,7 +5,6 @@
     "Microsoft.ApplicationInsights.PersistenceChannel": "1.2.3",
     "Microsoft.ApplicationInsights.WindowsApps": "1.1.1",
     "Microsoft.NETCore.UniversalWindowsPlatform": "5.1.0",
-    "Newtonsoft.Json": "8.0.2",
     "Unity": "4.0.1",
 	"WebRtc": "1.2.71-Beta"
   },
