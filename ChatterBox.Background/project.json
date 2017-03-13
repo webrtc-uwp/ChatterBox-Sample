@@ -7,7 +7,7 @@
     "Microsoft.NETCore.UniversalWindowsPlatform": "5.1.0",
     "Newtonsoft.Json": "8.0.2",
     "Unity": "4.0.1",
-	"WebRtc": "1.54.0-Alpha"
+    "WebRtc": "1.54.1-alpha"
   },
   "frameworks": {
     "uap10.0": {}
